@@ -2,9 +2,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=F779C3&center=true&vCenter=true&width=600&lines=Hey%2C+I%27m+Kusumlata+Murmu+%F0%9F%91%8B" />
   
 </p>
+
 ---
 
-## 🌸 About Me
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=F779C3&vCenter=true&width=300&lines=%F0%9F%8C%B8+About+Me" />
+</p>
 
 - 🎓 BCA Final Year Student, focused on building a strong foundation in Computer Science  
 - 💻 Interested in Web Development and currently learning full-stack development (MERN)  
