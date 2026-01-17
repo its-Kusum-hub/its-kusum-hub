@@ -110,7 +110,7 @@
 ## 🔗 Connect With Me
 
 <p align="left">
-<a href="mailto:kusumlatamurmu124@gmail.com">
+<a href="mailto:kusumlatamurmu124@gmail.com" kusumlatamurmu124@gmail.com>
 <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
