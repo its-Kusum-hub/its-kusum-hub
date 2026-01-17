@@ -85,6 +85,15 @@
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 </p>
+### 🧪 Testing & QA
+<p align="left">
+  <img src="https://img.shields.io/badge/Manual%20Testing-2E7D32?style=for-the-badge&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Functional%20Testing-1565C0?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI%20Testing-6A1B9A?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bug%20Tracking-D32F2F?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debugging-424242?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
 ---
 
