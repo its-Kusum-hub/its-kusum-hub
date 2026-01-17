@@ -25,10 +25,11 @@
 ## 💻 Tech Stack:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,ts,aws,django,nextjs,react,nodejs,express,mongodb,mysql,tailwind,firebase,jupyter,git,github,npm,postman,bootstrap,vscode&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,ts,aws,django,nextjs,react,nodejs,express,mongodb,mysql,tailwind,firebase,git,github,npm,postman,bootstrap,vscode&theme=dark&perline=10" />
 </p>
 
 ---
+
 
 ## 🎨 Frontend
 
@@ -41,6 +42,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
+
 ## ⚙️ Backend
 
 <p align="left">
@@ -48,12 +50,14 @@
   <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
+
 ## 🗄️ Database
 
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
+
 
 ## 🧰 Tools & Platforms
 
@@ -67,6 +71,7 @@
 
 </p>
 
+
 ## 💻 Programming Languages
 
 <p align="left">
@@ -76,6 +81,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
+
 ## 📌 MERN Stack
 
 <p align="left">
@@ -84,6 +90,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
+
 
 ## 🤖 AI / Automation
 
@@ -95,6 +102,7 @@
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 </p>
+
 
 ## 🧪 Testing & QA
 <p align="left">
@@ -108,6 +116,7 @@
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -116,6 +125,7 @@
 </p>
 
 ---
+
 
 ## 🔗 Connect With Me
 
