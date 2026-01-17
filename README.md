@@ -22,6 +22,13 @@
 ---
 
 
+## 💻 Tech Stack:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,ts,aws,django,nextjs,react,nodejs,express,mongodb,firebase,git,github,npm,postman,vscode&theme=dark&perline=10" />
+</p>
+
+
 ## 🎨 Frontend
 
 <p align="left">
