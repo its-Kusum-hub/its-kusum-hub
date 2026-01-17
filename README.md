@@ -5,7 +5,7 @@
 
 ---
 
-<p align="left">
+##🌸🌸<p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=F779C3&vCenter=true&width=300&lines=%F0%9F%8C%B8+About+Me" />
 </p>
 
