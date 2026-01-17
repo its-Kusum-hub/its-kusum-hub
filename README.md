@@ -12,7 +12,7 @@
 
 - 🎓 BCA Final Year Student, focused on building a strong foundation in Computer Science  
 - 💻 Interested in Web Development and currently learning full-stack development (MERN)  
-- 🛠 Skilled in Java, python c,C++, Javascript , HTML , CSS MS Office and improving my coding skills every day  
+- 🛠 Skilled in Java, python, C, C++, Javascript , HTML, CSS, MS Office and improving my coding skills every day  
 - ⚡ Fast & Accurate English Typing with good communication skills  
 - 🌱 Currently learning: **MERN Stack + Responsive Web Design**  
 - 📫 Reach me at: **kusumlatamurmu124@gmail.com**  
