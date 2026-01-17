@@ -1,7 +1,82 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=500&color=FFFFFF&background=0077FF&center=true&vCenter=true&width=600&lines=Hello%20👋%20I%27m%20Kusumlata%20Murmu" />
-</p>
+<h1 align="center">Hey, I'm Kusumlata Murmu 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=500&color=FFFFFF&background=0077FF&center=true&vCenter=true&width=600&lines=I%27m%20an%20Aspiring%20AI%2FML%20Engineer;Full-Stack%20Web%20Developer;I%20love%20coding!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=F779C3&center=true&vCenter=true&width=600&lines=Tech+Learner;BCA+Final+Year+Student;Web+Developer;MERN+Stack+Learner;Always+Ready+to+Learn+New+Things" />
+</p>
+
+---
+
+## 🌸 About Me
+
+- 🎓 BCA Final Year Student  
+- 💻 Web Development | Java | C++ | MS Office  
+- ⚡ Fast & Accurate English Typing  
+- 📫 Email: **kusumlatamurmu124@gmail.com**  
+- 🌱 Currently learning: **MERN Stack + Responsive Web Design**  
+- ⭐ Always excited to learn new technologies  
+
+---
+
+## 🚀 Tech & Tools I Use
+
+<p align="left">
+
+<!-- Frontend -->
+<img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+<br/>
+
+<!-- Backend -->
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white" />
+
+<br/>
+
+<!-- Database -->
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white" />
+
+<br/>
+
+<!-- Tools -->
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
+</p>
+
+---
+
+## 📌 MERN Stack
+
+<p align="left">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=its-Kusum-hub&show_icons=true&theme=radical" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-Kusum-hub&layout=compact&theme=radical" height="160" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+<a href="mailto:kusumlatamurmu124@gmail.com">
+<img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
