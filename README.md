@@ -98,11 +98,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=its-Kusum-hub&show_icons=true&theme=radical" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-Kusum-hub&layout=compact&theme=radical" height="160" />
+  <img src="https://streak-stats.demolab.com?user=its-Kusum-hub&theme=radical" />
 </p>
 
 ---
