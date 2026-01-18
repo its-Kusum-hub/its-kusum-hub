@@ -120,13 +120,14 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=its-Kusum-hub&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" height="160" />
-  <img src="https://streak-stats.demolab.com?user=its-Kusum-hub&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=its-Kusum-hub&show_icons=true&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=its-Kusum-hub&theme=radical&hide_border=true" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-Kusum-hub&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-Kusum-hub&layout=compact&theme=radical&hide_border=true" height="160" />
 </p>
+
 
 
 
